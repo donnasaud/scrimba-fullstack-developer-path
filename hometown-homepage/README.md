@@ -1,19 +1,20 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Hometown Homepage 🌍
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+This project is a simple **Hometown Homepage** built as part of the **Scrimba Full Stack Developer Path**.  
+The goal of the project is to practice HTML and CSS by creating a webpage that highlights a hometown, its attractions, and what makes it special.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🚀 Features
+- Clean and responsive layout
+- Sections highlighting places, activities, and local culture
+- Styled using CSS
+- Built with semantic HTML
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 🛠️ Built With
+- HTML
+- CSS
 
-Happy Coding!
+## 📚 What I Learned
+- Structuring a webpage using semantic HTML
+- Styling layouts with CSS
+- Using flexbox for alignment
+- Improving visual hierarchy and spacing
